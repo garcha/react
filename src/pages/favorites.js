@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Archives extends Component {
+class Favorites extends Component {
   render() {
     return (
       <div>
-        <h1>Archives</h1>
+        <h1>Favorites</h1>
       </div>
     );
   }
 }
 
-export default Archives;
+export default Favorites;
